@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Cats</string>
+    <string name="next">Next</string>
+    <string name="kucing1">Chinchilla longhair</string>
+    <string name="kucing2">Ras Burmese</string>
+    <string name="kucing3">Maine Coon</string>
+    <string name="kucing4">Kucing liar Afrika</string>
+    <string name="kucing5">Tortoiseshell</string>
+    <string name="kucing6">Kucing Calico</string>
+</resources>
