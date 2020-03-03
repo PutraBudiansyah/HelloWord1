@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">H-2ASS</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi">PERSEGI</string>
+    <string name="panjang">Panjang</string>
+    <string name="keliling">Keliling</string>
+    <string name="luas">Luas</string>
+    <string name="hitung">Hitung</string>
+    <string name="lebar">Lebar</string>
+    <string name="share">Share</string>
+    <string name="share_PP">Persegi panjang dengan  %1$d dan lebar %2$d mempunyai Luas %3$d dan keliling %4$d</string>
+    <string name="about">about</string>
+    <string name="submit">Submit</string>
+    <string name="kelinci">Kelinci</string>
+    <string name="kuda">Kuda</string>
+    <string name="sapi">Sapi</string>
+    <string name="kucing">Kucing</string>
+    <string name="apa_nama_hewan_diatas">Apa nama hewan diatas?</string>
+    <string name="selamat_anda_menang">SELAMAT ANDA MENANG</string>
+    <string name="anda_kalah">Anda Kalah</string>
+    <string name="back">back</string>
+    <string name="button">Button</string>
+    <string name="main_quiz">MAIN QUIZ</string>
+    <string name="dice_roller">DICE ROLLER</string>
+    <string name="next">NEXT</string>
+    <string name="reset">RESET</string>
+    <string name="nama_pemesan">Nama Pemesan</string>
+    <string name="keju">Keju</string>
+    <string name="coklat">Coklat</string>
+    <string name="pilihan_topping">Pilihan Topping</string>
+    <string name="plus">+</string>
+    <string name="_0">0</string>
+    <string name="min">-</string>
+    <string name="icecream">IceCream</string>
+    <string name="silahkan_beli_ic_cream_nya">Silahkan Beli Ic Cream nya</string>
+</resources>
